@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @noirdeveloper
+- 👀 I’m interested in developing web aplications using python or Astro Framework for Node.js
